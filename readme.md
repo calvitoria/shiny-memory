@@ -1,4 +1,4 @@
-## Shiny Memory Gallery 
+## Shiny Memory Gallery 🖼️
 - Project made with HTML and CSS.
 - It presents some photos I've took.
 - When the photos are hovered, it zooms in. 
